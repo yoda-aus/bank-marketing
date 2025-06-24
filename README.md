@@ -26,11 +26,12 @@ Training Time Analysis: Efficiency comparison
 
 ## Key Findings
 Model Performance Rankings
-Model                    Test Accuracy    F1-Score    Training Time
-Logistic Regression      0.904           0.XXX       0.02s
-Support Vector Machine   0.909           0.XXX       2.35s
-Decision Tree           0.875           0.XXX       0.01s
-K-Nearest Neighbors     0.888           0.XXX       0.02s
+| Model | Test Accuracy  | F1-Score  | Training Time  |
+| --- | --- |--- |--- |
+| Logistic Regression    | 0.904  | 0.XXX |  0.02s |
+| Support Vector Machine | 0.909  | 0.XXX | 2.35s |
+| Decision Tree  | 0.875 | 0.XXX   | 0.01s |
+| K-Nearest Neighbors  | 0.888  | 0.XXX   | 0.02s |
 
 
 [Link to Notebook](https://github.com/yoda-aus/bank-marketing/blob/main/prompt_III.ipynb)
