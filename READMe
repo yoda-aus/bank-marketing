@@ -35,4 +35,4 @@ Support Vector Machine   0.909           0.XXX       2.35s
 Decision Tree           0.875           0.XXX       0.01s
 K-Nearest Neighbors     0.888           0.XXX       0.02s
 
-Link to Jupyter [Notebook](https://github.com/yoda-aus/bank-marketing/blob/main/prompt_III.ipynb)
+Link to Jupyter [Notebook](prompt_III.ipynb)
